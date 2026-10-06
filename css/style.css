@@ -102,7 +102,7 @@ h2 {
 
 @media screen and (max-width: 768px) {
   .imagegrid figure {
-    grid-column: 1/13;
+    grid-column: 1/18;
     margin-bottom: var(--md);
   }
 
@@ -152,6 +152,30 @@ h2 {
 
   .grid-image-12 {
     grid-row: 12/12;
+  }
+
+  .grid-image-13 {
+    grid-row: 13/13;
+  }
+
+  .grid-image-14 {
+    grid-row: 14/14;
+  }
+
+  .grid-image-15 {
+    grid-row: 15/15;
+  }
+
+  .grid-image-16 {
+    grid-row: 16/16;
+  }
+
+  .grid-image-17 {
+    grid-row: 17/17;
+  }
+
+  .grid-image-18 {
+    grid-row: 18/18;
   }
 }
 
