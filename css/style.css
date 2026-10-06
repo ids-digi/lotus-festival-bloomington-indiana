@@ -16,7 +16,7 @@
 header {
   /* add header image below */
   /* can use a file path before the photo is uploaded to ceo */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://snworksceo.imgix.net/ids/ceb782b3-e61a-4993-8567-006851dd79be.sized-1000x1000.jpg?w=1000');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/d589d51b-2295-4bf2-ad16-a9422ad535ef.original.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* adjusts image placement, can also be set as percentages (ex. 50% 50%) */
