@@ -51,20 +51,19 @@ h2 {
 }
 
 .grid-image-1 {
-  grid-area: 1/2/1/12;
+  grid-area: 7/5/7/9;
 }
 
 .grid-image-2 {
-  grid-area: 2/1/2/7;
+  grid-area: 1/2/1/7;
 }
 
 .grid-image-3 {
-  grid-area: 2/8/2/13;
-  align-self: end;
+  grid-area: 2/7/2/13;
 }
 
 .grid-image-4 {
-  grid-area: 3/2/3/7;
+  grid-area: 7/1/7/5;
 }
 
 .grid-image-5 {
@@ -72,32 +71,55 @@ h2 {
 }
 
 .grid-image-6 {
-  grid-area: 4/1/4/5;
+  grid-area: 4/2/4/7;
 }
 
 .grid-image-7 {
-  grid-area: 5/1/5/6;
-  align-self: end;
+  grid-area: 4/7/4/12;
 }
 
 .grid-image-8 {
-  grid-area: 5/7/5/13;
+  grid-area: 3/2/3/7;
 }
 
 .grid-image-9 {
-  grid-area: 6/1/6/13;
+  grid-area: 6/1/6/5;
 }
 
 .grid-image-10 {
-  grid-area: 4/9/4/13;
+  grid-row: 10/10;
 }
 
 .grid-image-11 {
-  grid-area: 4/5/4/9;
+  grid-area: 9/2/9/12;
 }
 
 .grid-image-12 {
-  grid-area: 7/3/7/11;
+  grid-area: 2/1/2/7;
+}
+
+.grid-image-13 {
+  grid-area: 6/5/6/9;
+}
+
+.grid-image-14 {
+  grid-area: 5/7/5/13;
+}
+
+.grid-image-15 {
+  grid-area: 5/1/5/7;
+}
+
+.grid-image-16 {
+  grid-area: 6/9/6/13;
+}
+
+.grid-image-17 {
+  grid-area: 1/7/4/12;
+}
+
+.grid-image-18 {
+  grid-area: 7/9/7/13;
 }
 
 @media screen and (max-width: 768px) {
