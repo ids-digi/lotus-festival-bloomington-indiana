@@ -1,30 +1,49 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Pridefest Returns",
-    "title": "Pridefest Photos",
-    "pub_date": "July 31, 2022",
+    "url": "lotus-festival-bloomington-indiana",
+    "slug": "Lotus Fest Photos",
+    "title": "Lotus Fest Photos",
+    "headline": "PHOTOS: A look at the 2026 Lotus Festival",
+    "description": "The 33rd annual Lotus World Music and Arts Festival was Oct. 1-4, 2026.",
+    "pub_date": "October 6, 2026",
     "bylines": {
         "Photos by": [
             {
-                "name": "Ethan Moore",
-                "email": "ethmoore@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1553236976928710656/_Y1q2klo_400x400.jpg",
-                "bio": "Ethan has worked at the IDS since 2019 as a reporter and designer."
+                "name": "Harshini Muthuraman",
+                "email": "hmuthur@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/c2babb82-ff84-4c63-8155-753e3d599aaa.original.jpg",
+                "bio": "Harshini has worked at the IDS since 2026 as a photographer."
             },
             {
-                "name": "Ashlyn Johnson",
-                "email": "catchar@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-                "bio": "Ashlyn has worked at the IDS since 2019 as a reporter and designer."
+                "name": "Anya Minekus",
+                "email": "aminekus@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/26c5ff2a-0126-4704-bba7-7a0abc2bce89.original.jpg",
+                "bio": "Anya Minekus has worked at the IDS since 2025 as a photographer."
             },
             {
-                "name": "Alex Paul",
-                "email": "catchar@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-                "bio": "Alex has worked at the IDS since 2019 as a reporter and designer."
+                "name": "Aaron Smith",
+                "email": "smithaac@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/787a15c4-8408-4837-9b05-94f13a31e7e9.original.jpg",
+                "bio": "Aaron has worked at the IDS since 2025 and is a beat photographer"
+            },
+            {
+                "name": "Katherine Maners",
+                "email": "katmaner@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/e192d842-c762-470e-bdd4-eb963230c3ba.original.jpg",
+                "bio": "Katherine has worked at the IDS since 2024 and is a visuals editor."
+            },
+            {
+                "name": "Jack Jernigan",
+                "email": "jackjern@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/cc4943db-301b-4ee2-93fa-2ebeadd2573d.original.jpg",
+                "bio": "Jack has worked at the IDS since 2025 and is a sports beat photographer."
+            }
+        ],
+        "Design and development by": [
+            {
+                "name": "Lillie Donato",
+                "email": "mdonato@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/892b8a83-4320-4435-804c-6eff0e6903eb.original.jpg",
+                "bio": "Lillie has worked at the IDS since 2026 and currently serves as the managing editor of digital."
             }
         ]
     }
