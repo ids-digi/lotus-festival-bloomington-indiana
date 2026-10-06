@@ -23,7 +23,7 @@ const data = {
                 "name": "Aaron Smith",
                 "email": "smithaac@iu.edu",
                 "pfp": "https://s3.amazonaws.com/snwceomedia/ids/787a15c4-8408-4837-9b05-94f13a31e7e9.original.jpg",
-                "bio": "Aaron has worked at the IDS since 2025 and is a beat photographer"
+                "bio": "Aaron has worked at the IDS since 2025 and is a beat photographer."
             },
             {
                 "name": "Katherine Maners",
